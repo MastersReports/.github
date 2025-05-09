@@ -8,3 +8,7 @@ baza danych z certyfikatami produktów medycznych w UE: https://ec.europa.eu/too
 
 
 unit testy, generator test casow (dokumentow), z parametrami - opcje dodawania obrazow szumu do danych itd, 
+
+
+
+dodac barplota, walidacja xmla, maly druczek dodatkowo do dokumentow, tabela, rozdzielic rysunek od wizualizacji, listy numerowane/punktowane
