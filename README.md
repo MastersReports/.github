@@ -12,3 +12,7 @@ unit testy, generator test casow (dokumentow), z parametrami - opcje dodawania o
 
 
 dodac barplota, walidacja xmla, maly druczek dodatkowo do dokumentow, tabela, rozdzielic rysunek od wizualizacji, listy numerowane/punktowane
+
+
+
+edycja w locie xml (edytor), sprobowac utworzyc dokumenty podobne do dokumentow faktycznych, xps zobaczyc.
